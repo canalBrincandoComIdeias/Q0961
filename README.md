@@ -2,11 +2,9 @@
 
 **Display Touch para Esp32 (Display Nextion)** 
 
-Projeto do Vídeo Q0961 Série **_Matatona Maker_** powered by **_Petrobras_**
+Projeto do Vídeo Q0961 Série **_Maratona Maker_** powered by **_Petrobras_**
 
 :video_camera: Assista o vídeo [CLIQUE AQUI](https://youtu.be/8tdXAxMrpUg)
-
-<img src="https://i9.ytimg.com/vi/8tdXAxMrpUg/maxresdefault.jpg?v=636aaf69&sqp=CKyf-psG&rs=AOn4CLBGCIrBbcBWs0NQ3OSwAZ8xuUAP1w" width="900px" />
 
 
 - Confira esse e outros projetos de Esp32 assistindo a Playlist [(Clique Aqui)](https://youtube.com/playlist?list=PL7CjOZ3q8fMdgvaq988L97y05Gb219fLd)
@@ -24,4 +22,3 @@ Projeto do Vídeo Q0961 Série **_Matatona Maker_** powered by **_Petrobras_**
 
 <img src="https://img.icons8.com/color/50/facebook-circled--v1.png" width="20px" /> [Facebook](https://www.facebook.com/paginaBrincandoComIdeias/)
 
-<img src="https://img.icons8.com/color/50/domain--v1.png" width="20px" /> [Site OFicial](https://www.brincandocomideias.com/)
